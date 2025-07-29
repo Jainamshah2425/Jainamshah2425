@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Experience Highlights
+### 💼 Experience 
 
 - ⚛️ Built 15+ React + Tailwind components for production apps
 - 📦 Designed & deployed REST APIs with Express, MongoDB
