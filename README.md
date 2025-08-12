@@ -11,7 +11,7 @@
 ###  About Me
 
 
--  B.Tech in Information Technology @ *DJSCE*, Mumbai (CGPA: 9.3)
+-  B.Tech in Information Technology @ *DJSCE*, Mumbai 
 -  Passionate about building tools that blend AI + UX for real-world impact
 -  Exploring GenAI, Whisper, LLMs, and scalable infra
 
