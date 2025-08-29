@@ -3,7 +3,7 @@
 
 <p align="center">
    Developer | 🎓 B.Tech IT @ DJSCE |  Building with AI, Web & DevOps<br>
-    Startup-minded • UI-Obsessed • Always Shipping
+    Startup-minded • Always Learning
 </p>
 
 ---
